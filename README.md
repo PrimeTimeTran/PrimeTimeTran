@@ -1,7 +1,6 @@
-# Hi there, I'm Loi
-
-## Developer, Instructor, Student
-When I'm not working I enjoy cooking, yoga, basketball and coffee.
+# Developer, Instructor, Student
+Some emojis that describe me. 
+🧑🏻‍🍳 , 🧘🏻, 🏀 , ☕, 🐩.
 
 ## Favorite Technologies
 - React.JS
