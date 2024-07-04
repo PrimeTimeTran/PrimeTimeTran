@@ -12,9 +12,6 @@ Some emojis that describe me.
 - <a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a>
 - <a href="https://vuejs.org/" target="_blank">VueJS</a>
 
-https://github.com/PrimeTimeTran/ml_classifiers
-
-
 ### Connect with me:
 
 [<img align="left" alt="PrimeTimeTran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.PrimeTimeTran.com)
