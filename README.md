@@ -11,6 +11,15 @@ Some emojis that describe me.
 - <a href="https://reactnative.dev/" target="_blank">React Native</a>
 - <a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a>
 - <a href="https://vuejs.org/" target="_blank">VueJS</a>
+- <a href="https://nuxt.com/" target="_blank">NuxtJS</a>
+
+## Interests
+- Machine Learning
+- Mobile Development
+- Full Stack Development
+- CI/CD
+- DevOPS
+- Automation
 
 ### Connect with me:
 
